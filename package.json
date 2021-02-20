@@ -12,7 +12,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-router-dom": "^5.1.2",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.0"
   },
   "scripts": {
@@ -53,6 +53,7 @@
     "@stryker-mutator/jest-runner": "^3.3.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-react": "^7.22.0",
-    "eslint-plugin-sonarjs": "^0.5.0"
+    "eslint-plugin-sonarjs": "^0.5.0",
+    "mutationobserver-shim": "^0.3.7"
   }
 }
